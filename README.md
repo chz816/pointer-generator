@@ -54,7 +54,7 @@ $ chmod +x eval.sh
 $ ./eval.sh
 ```
 
-### Decode - Evaluate the Performance
+### Generate
 
 ```bash
 $ chmod +x decode.sh
